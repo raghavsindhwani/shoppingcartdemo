@@ -1,0 +1,39 @@
+.filterbrand{
+    background-color:rgb(2, 255, 221);
+    width: 200px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 500px;
+    
+}
+.filtercolor{
+    background-color:rgb(2, 255, 221);
+   width: 200px;
+   padding: 10px;
+   margin: 20px;
+   margin-left: 500px;
+}
+.filtermax{
+    background-color:rgb(2, 255, 221);
+   width:200px;
+   padding: 10px;
+   margin: 20px;
+   margin-left: 500px;
+}
+.filtermax{
+    background-color:rgb(2, 255, 221);
+   width: 200px;
+   padding: 10px;
+   margin: 20px;
+   margin-left:500px;
+}
+.filterB{
+  margin: auto;
+  width: 10%;
+  border: 3px ;
+  padding: 10px;
+  margin-left: 525px;
+}
+.form{
+    width: 100px;
+}

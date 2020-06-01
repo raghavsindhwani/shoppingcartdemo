@@ -1,0 +1,20 @@
+.navmain{
+    width: 98.8vw;
+    height: 6vh;
+    padding: 30px;
+    background-color: turquoise;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navleft{
+    width:20%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}

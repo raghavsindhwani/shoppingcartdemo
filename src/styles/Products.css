@@ -1,0 +1,31 @@
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 33%;
+    height: 700px;
+    padding: 15px;
+    text-align: center;
+    position: relative;
+  }
+
+  *{
+    box-sizing: border-box;
+  }
+
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    color: rebeccapurple;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+  .des {
+    background-color: lightgrey;
+    padding: 15px;
+    text-align: center;
+    padding: 50px;
+    margin: 20px;
+  }
